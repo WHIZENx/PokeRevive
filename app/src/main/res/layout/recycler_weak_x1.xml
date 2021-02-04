@@ -17,7 +17,7 @@
             android:textColor="@color/white"
             android:text="TYPE_NAME"
             android:layout_margin="5sp"
-            android:textSize="16sp">
+            android:textSize="18sp">
         </TextView>
 
 
